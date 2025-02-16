@@ -6,6 +6,7 @@
     "sass": "^1.83.4"
   },
   "scripts": {
+    "grunt": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,4 +22,3 @@
   "homepage": "https://github.com/messimaromba69/3ano_exercicio02#readme",
   "description": ""
 }
-olaaaaaaaaa marcelo
