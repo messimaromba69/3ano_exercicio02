@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-sass": "^2.0.0",
     "sass": "^1.83.4"
   },
   "scripts": {
